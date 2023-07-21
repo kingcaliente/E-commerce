@@ -25,4 +25,5 @@ https://drive.google.com/file/d/142WaN5G37rfCe8w428i4xyOMdx0W3tTJ/view
 
 ## Screenshot
 
-Pending
+![Capture](https://github.com/kingcaliente/E-commerce/assets/15383027/59cfde3f-a733-4639-995c-4ad72517fd45)
+
